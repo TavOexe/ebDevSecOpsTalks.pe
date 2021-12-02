@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App
 {
-
+    private final String points = "i deserve 20 points"
     private final String message = "Hello World!";
 
     public App() {}
